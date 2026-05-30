@@ -1,3 +1,5 @@
 "use strict";
 
-console.log('!');
+const log = (text) => {
+  console.log(text);
+}
